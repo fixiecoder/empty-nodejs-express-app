@@ -1,0 +1,16 @@
+{
+  "name": "empty-nodejs-express-app",
+  "version": "0.0.0",
+  "description": "Template for creating a basic nodejs express app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "https://github.com/fixiecoder/empty-nodejs-express-app.git",
+  "author": "Colin Adams",
+  "license": "MIT",
+  "dependencies": {
+    "express": "4.10.6",
+    "socket.io": "^1.3.2"
+  }
+}
